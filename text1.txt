@@ -1,0 +1,1 @@
+manipulation.hs  text1.txt
